@@ -1,6 +1,6 @@
 {
-  "short_name": "HackIIITD",
-  "name": "HackIIITD",
+  "short_name": "HackPhoria",
+  "name": "HackPhoria",
   "icons": [
     {
       "src": "favicon.png",
@@ -8,7 +8,7 @@
       "sizes": "32x32"
     }
   ],
-  "start_url": "https://sidhantsarkar.github.io/hackiiitd/",
+  "start_url": "https://github.com/thefossguy/hackphoria_website",
   "background_color": "#FFFFFF",
   "display": "standalone",
   "theme_color": "#050B22"
